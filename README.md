@@ -41,8 +41,11 @@ Here is the link to the GitHub URL
 https://github.com/MariskaZeta/professional-readme-creator
 
 ## Video
-Here is the link to the video demonstration: 
+Here is the link to the command line video demonstration: 
 https://drive.google.com/file/d/1hFH2PRI6GiiFV1Em_Lca8gZQVrZw-ZC6/view
+
+Here is the link to the generated README.md video demonstration:
+https://drive.google.com/file/d/1inz7cruMSbAHHYNgYxLg5X8RIr5T0Cn2/view
 
 ## Screenshots
 <img width="568" alt="ProfessionalREADMEcreatorScreenshot1" src="https://user-images.githubusercontent.com/102756451/162594073-dac34488-250c-4da4-8d90-4e9a06dfea87.png">
