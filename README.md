@@ -1,7 +1,7 @@
 # Professional README Creator
 
 ## Description
-This application is used to generate a high-quality, professional README based on a series of questions a user answers in their command line using Node.js.
+This application is used to generate a high-quality, professional README based on a series of questions a user answers in their command line using Node.js. The README markdown file with the user information is saved inside the utils folder under the generatedREADME.md
 
 ## Table of Contents
 
@@ -36,7 +36,6 @@ mv generatedREADME.md README.md
 * Inquirer npm package
 
 ## Github URL
-
-## Videos
+https://github.com/MariskaZeta/professional-readme-creator
 
 ## Screenshots
