@@ -7,8 +7,9 @@ This application is used to generate a high-quality, professional README based o
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Technologies Used](#technologiesused)
-- [Github URL](#githuburl)
+- [Technologies](#technologies)
+- [Github](#github)
+- [Video](#video)
 - [Screenshots](#screenshots)
 
 
@@ -30,12 +31,20 @@ node index.js
 mv generatedREADME.md README.md
 ```
 
-## Technologies Used
+## Technologies
 * JavaScript
 * Node.js
 * Inquirer npm package
 
-## Github URL
+## Github
+Here is the link to the GitHub URL
 https://github.com/MariskaZeta/professional-readme-creator
 
+## Video
+Here is the link to the video demonstration: 
+https://drive.google.com/file/d/1hFH2PRI6GiiFV1Em_Lca8gZQVrZw-ZC6/view
+
 ## Screenshots
+<img width="568" alt="ProfessionalREADMEcreatorScreenshot1" src="https://user-images.githubusercontent.com/102756451/162594073-dac34488-250c-4da4-8d90-4e9a06dfea87.png">
+<hr>
+<img width="843" alt="ProfessionalREADMEcreatorScreenshot2" src="https://user-images.githubusercontent.com/102756451/162594080-0fb3e57a-6fc5-4fb8-828c-072121148286.png">
