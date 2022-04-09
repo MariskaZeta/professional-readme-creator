@@ -43,6 +43,17 @@ function renderLicenseSection(license) {
   return licenseSection;
 }
 
+function getLicenseAnchorName(license) {
+  console.log(license);
+
+  license = license.replace(/\s/g, "-");
+  license = license.replace(/\./g, "");
+  license = license.toLowerCase();
+  license = "license-" + license + "--";
+  console.log(`tagname: ${license}`);
+  return license;
+}
+
 
 function generateMarkdown(answer) {
   return ` # ${answer.title}
@@ -54,8 +65,8 @@ function generateMarkdown(answer) {
    ###  [Installation](#installation)
    ###  [Description](#description)
    ###  [Usage](#usage)
-   ###  [License](#license)
-   ###  [Contributors](#contributors)
+   ###  [License](#${getLicenseAnchorName(answer.license)})
+   ###  [Contributions](#contributions)
    ###  [Testing](#testing)
    ###  [Technologies](#technologies)
    ###  [Questions](#questions)
@@ -65,7 +76,7 @@ function generateMarkdown(answer) {
    ### ${answer.description}
    ## Usage:
    ### ${answer.usage}
-   ## Contributors:
+   ## Contributions:
    ### ${answer.contributions}
    ## Testing:
    ### Run the following commands in your terminal to test this app:
