@@ -44,13 +44,11 @@ function renderLicenseSection(license) {
 }
 
 function getLicenseAnchorName(license) {
-  console.log(license);
 
   license = license.replace(/\s/g, "-");
   license = license.replace(/\./g, "");
   license = license.toLowerCase();
   license = "license-" + license + "--";
-  console.log(`tagname: ${license}`);
   return license;
 }
 

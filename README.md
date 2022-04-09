@@ -8,13 +8,14 @@ This application is used to generate a high-quality, professional README based o
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologiesused)
-- [Live URL](#liveurl)
 - [Github URL](#githuburl)
 - [Screenshots](#screenshots)
 
 
 ## Installation
-The user should clone the repository from GitHub and download Node. This application also requires a file system and inquirer module.
+1. Fork repository
+2. Clone repository to local environment
+3. Run npm install to install dependencies (inquirer, fs)
 
 ## Usage
 Use inquirer from your command line to answer questions about the README.
