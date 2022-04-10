@@ -40,6 +40,9 @@ mv generatedREADME.md README.md
 Here is the link to the GitHub URL
 https://github.com/MariskaZeta/professional-readme-creator
 
+## Generated README.md file URL
+https://github.com/MariskaZeta/professional-readme-creator/blob/main/samples/generatedREADME.md
+
 ## Video
 Here is the link to the command line video demonstration: 
 https://drive.google.com/file/d/1hFH2PRI6GiiFV1Em_Lca8gZQVrZw-ZC6/view
